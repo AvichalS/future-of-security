@@ -5,33 +5,37 @@ nav_order: 1
 
 # ⚡ Critical Response: Securing NOVA’s Grid
 
-> **A real-world cybersecurity simulation for a grid-wide blackout in Northern Virginia.**
+> _A real-world cybersecurity simulation built to test your leadership, response agility, and ethical judgment during a catastrophic power grid attack in Northern Virginia._
 
 ---
 
-### 🧭 Simulation Overview
+### 🧭 What Is This Simulation About?
 
-This cyber crisis scenario centers around a synchronized attack on the electrical grid in Northern Virginia.
+This simulation immerses participants in a fast-evolving cyber-physical emergency where the electrical grid across Northern Virginia has been crippled by a ransomware-style attack. Hospitals go dark. Disinformation spreads online. International tensions escalate.
 
-**Your mission:**  
-Coordinate responses across sectors, manage disinformation, and develop long-term strategies to secure the grid.
+Participants take on roles of national and private-sector stakeholders to:
 
-**Inspired by:**
-- 🛢 Colonial Pipeline Attack (2021)
-- ⚡ Ukraine Grid Hacks (2015, 2016)
-
----
-
-### 📅 Timeline of Events
-
-- **March – April 2025:** Threat intelligence detects probing
-- **May 5, 2025:** Blackout hits Northern Virginia
-- **May 6–10:** Emergency declared, response underway
-- **May 15+:** Investigations, reforms, public education
+- Restore infrastructure and public order
+- Address civil liberties and surveillance debates
+- Coordinate a multi-agency response
+- Rebuild trust and resilience post-crisis
 
 ---
 
-### 🔑 Navigate the Simulation
+### 🗓️ Simulation Timeline
+
+| Phase | Event |
+|------|-------|
+| **Pre-Attack** | Threat intelligence reports probing of U.S. substations |
+| **May 5, 2025** | Grid goes down in Northern Virginia |
+| **May 6–10** | Emergency powers invoked, partial restoration begins |
+| **May 15+** | Post-crisis investigations and long-term reforms |
+
+---
+
+### 🔗 Quick Navigation
+
+Use the sidebar or the links below to explore the simulation components:
 
 - [Scenario Background](scenario.md)
 - [Stakeholder Roles](roles.md)
@@ -44,12 +48,13 @@ Coordinate responses across sectors, manage disinformation, and develop long-ter
 
 ---
 
-### 🚀 Get Started
+### 🚀 Ready to Begin?
 
-[**Begin the Simulation »**](guide.md)
+Start the simulation journey:  
+👉 [**Walk through the Simulation Guide**](guide.md)
 
 ---
 
-### 👨‍💻 Team Credits
+### 👨‍💻 Simulation Created By:
 Dharam Bhayani • Avichal Sharma • Aryan Jain  
-Virginia Tech • Spring 2025
+**Virginia Tech — Future of Security — Spring 2025**
