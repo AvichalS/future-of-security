@@ -1,57 +1,50 @@
 ---
-title: Home
+title: Critical Response: Securing NOVA’s Grid
+layout: home
 nav_order: 1
+permalink: /
 ---
 
 # ⚡ Critical Response: Securing NOVA’s Grid
 
-> _A cybersecurity simulation where participants respond to a grid-wide blackout caused by a coordinated cyberattack on critical infrastructure in Northern Virginia._
+> _A cybersecurity simulation where participants respond to a grid-wide blackout caused by a coordinated cyberattack on Northern Virginia’s critical infrastructure._
 
 ---
 
-## 🧭 Overview
+![Grid Outage Placeholder](assets/images/placeholder.png)
 
-This simulation mirrors real-world incidents like the Colonial Pipeline ransomware breach and Ukraine's power grid hacks. Participants assume key stakeholder roles—cybersecurity agencies, utility executives, policy leaders, and more—and must respond under pressure to:
+This simulation immerses participants in a high-stakes cyber crisis inspired by real-world events like the Colonial Pipeline ransomware breach and Ukraine’s grid hacks.
 
-- Restore critical infrastructure
-- Manage civil unrest and misinformation
-- Make ethical decisions on surveillance and attribution
-- Build long-term resilience post-crisis
+Participants take on stakeholder roles to:
 
----
-
-## 🗓️ Simulation Timeline
-
-- **Pre-Attack:** Cyber intelligence detects probing activity
-- **Day Zero (May 5, 2025):** Power grid failure impacts Northern Virginia
-- **Days 1–5:** Emergency response, stakeholder decisions, media chaos
-- **Post-Crisis:** Investigations, public policy debates, system reform
+- ⚙️ Restore infrastructure and public order  
+- 📢 Manage disinformation and civil unrest  
+- 🧭 Make difficult ethical and political decisions  
+- 🔐 Build long-term digital resilience  
 
 ---
 
-## 📂 Explore the Simulation
+## 🗂 Quick Access
 
-Use the sidebar or links below to access each section:
-
-- [Scenario Background](scenario.md)
-- [Stakeholder Roles](roles.md)
-- [Simulation Walkthrough](guide.md)
-- [Facilitator Instructions](facilitator.md)
-- [Evaluation Criteria](evaluation.md)
-- [FAQs](faq.md)
-- [Resources](resources.md)
-- [User Manual](manual.md)
+- [📖 Scenario Background](scenario.md)
+- [🧑‍💼 Stakeholder Roles](roles.md)
+- [🧪 Simulation Walkthrough](guide.md)
+- [🎓 Facilitator Instructions](facilitator.md)
+- [📊 Evaluation Criteria](evaluation.md)
+- [❓ FAQs](faq.md)
+- [📚 Resources](resources.md)
+- [📄 User Manual](manual.md)
 
 ---
 
-## 🚀 Start Here
+### 🚀 Ready to Jump In?
 
-Begin with the simulation guide:  
-[👉 Simulation Walkthrough](guide.md)
+Begin your mission here:  
+[**Start Simulation Walkthrough →**](guide.md)
 
 ---
 
-## 👥 Team
+### 👥 Team Credits
 
-Created by Dharam Bhayani, Avichal Sharma, Aryan Jain  
-Virginia Tech • Future of Security – Spring 2025
+Dharam Bhayani • Avichal Sharma • Aryan Jain  
+Virginia Tech – Future of Security – Spring 2025
