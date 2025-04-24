@@ -1,39 +1,37 @@
 ---
-title: Critical Response: Securing NOVA’s Grid
-subtitle: A Cybersecurity Simulation for the Future of Security
-layout: default
+title: Home
+nav_order: 1
 ---
 
 # ⚡ Critical Response: Securing NOVA’s Grid
 
-**Imagine waking up in Northern Virginia. No power. Traffic lights off. Hospitals running on backup. Misinformation flooding social media.**  
-This simulation immerses you in a high-stakes, real-world inspired cybersecurity crisis, where critical infrastructure is under attack.
-
-> _“This isn’t just a simulation—it’s your rehearsal for reality.”_
+> **A real-world cybersecurity simulation for a grid-wide blackout in Northern Virginia.**
 
 ---
 
-## 🧭 Simulation Overview
+### 🧭 Simulation Overview
 
-This cyber crisis scenario centers around a synchronized attack on the electrical grid in Northern Virginia. Inspired by real incidents like the Colonial Pipeline ransomware breach and Ukraine’s grid hacks, the simulation challenges you to:
+This cyber crisis scenario centers around a synchronized attack on the electrical grid in Northern Virginia.
 
-- Coordinate responses across public and private sectors
-- Navigate misinformation and ethical dilemmas
-- Restore public trust and essential infrastructure
-- Propose long-term cybersecurity reforms
+**Your mission:**  
+Coordinate responses across sectors, manage disinformation, and develop long-term strategies to secure the grid.
 
----
-
-## 🚦 Timeline of Events
-
-- **Pre-Attack (March – April 2025):** Intelligence agencies detect unusual cyber activity
-- **Day Zero – May 5, 2025:** Major blackout hits Northern Virginia
-- **May 6–10:** Emergency powers invoked, partial recovery begins
-- **May 15 onward:** Post-crisis investigations and reforms
+**Inspired by:**
+- 🛢 Colonial Pipeline Attack (2021)
+- ⚡ Ukraine Grid Hacks (2015, 2016)
 
 ---
 
-## 🔑 What You’ll Find Here
+### 📅 Timeline of Events
+
+- **March – April 2025:** Threat intelligence detects probing
+- **May 5, 2025:** Blackout hits Northern Virginia
+- **May 6–10:** Emergency declared, response underway
+- **May 15+:** Investigations, reforms, public education
+
+---
+
+### 🔑 Navigate the Simulation
 
 - [Scenario Background](scenario.md)
 - [Stakeholder Roles](roles.md)
@@ -46,14 +44,12 @@ This cyber crisis scenario centers around a synchronized attack on the electrica
 
 ---
 
-## 🚀 Get Started
+### 🚀 Get Started
 
-**[👉 Start the Simulation Guide](guide.md)**  
-Ready to lead, respond, and secure the grid? Click the link above to begin the simulation experience.
+[**Begin the Simulation »**](guide.md)
 
 ---
 
-### 👨‍💻 Created By:
-Dharam Bhayani, Avichal Sharma, Aryan Jain  
-Virginia Tech | Future of Security – Project 2  
-Spring 2025
+### 👨‍💻 Team Credits
+Dharam Bhayani • Avichal Sharma • Aryan Jain  
+Virginia Tech • Spring 2025
