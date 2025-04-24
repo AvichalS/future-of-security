@@ -1,6 +1,6 @@
 ---
 title: Phase 1 – Initial Impact
-parent: Scenario Background
+parent: Scenarios
 nav_order: 1
 ---
 
