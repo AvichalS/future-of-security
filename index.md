@@ -5,37 +5,33 @@ nav_order: 1
 
 # ⚡ Critical Response: Securing NOVA’s Grid
 
-> _A real-world cybersecurity simulation built to test your leadership, response agility, and ethical judgment during a catastrophic power grid attack in Northern Virginia._
+> _A cybersecurity simulation where participants respond to a grid-wide blackout caused by a coordinated cyberattack on critical infrastructure in Northern Virginia._
 
 ---
 
-### 🧭 What Is This Simulation About?
+## 🧭 Overview
 
-This simulation immerses participants in a fast-evolving cyber-physical emergency where the electrical grid across Northern Virginia has been crippled by a ransomware-style attack. Hospitals go dark. Disinformation spreads online. International tensions escalate.
+This simulation mirrors real-world incidents like the Colonial Pipeline ransomware breach and Ukraine's power grid hacks. Participants assume key stakeholder roles—cybersecurity agencies, utility executives, policy leaders, and more—and must respond under pressure to:
 
-Participants take on roles of national and private-sector stakeholders to:
-
-- Restore infrastructure and public order
-- Address civil liberties and surveillance debates
-- Coordinate a multi-agency response
-- Rebuild trust and resilience post-crisis
+- Restore critical infrastructure
+- Manage civil unrest and misinformation
+- Make ethical decisions on surveillance and attribution
+- Build long-term resilience post-crisis
 
 ---
 
-### 🗓️ Simulation Timeline
+## 🗓️ Simulation Timeline
 
-| Phase | Event |
-|------|-------|
-| **Pre-Attack** | Threat intelligence reports probing of U.S. substations |
-| **May 5, 2025** | Grid goes down in Northern Virginia |
-| **May 6–10** | Emergency powers invoked, partial restoration begins |
-| **May 15+** | Post-crisis investigations and long-term reforms |
+- **Pre-Attack:** Cyber intelligence detects probing activity
+- **Day Zero (May 5, 2025):** Power grid failure impacts Northern Virginia
+- **Days 1–5:** Emergency response, stakeholder decisions, media chaos
+- **Post-Crisis:** Investigations, public policy debates, system reform
 
 ---
 
-### 🔗 Quick Navigation
+## 📂 Explore the Simulation
 
-Use the sidebar or the links below to explore the simulation components:
+Use the sidebar or links below to access each section:
 
 - [Scenario Background](scenario.md)
 - [Stakeholder Roles](roles.md)
@@ -48,13 +44,14 @@ Use the sidebar or the links below to explore the simulation components:
 
 ---
 
-### 🚀 Ready to Begin?
+## 🚀 Start Here
 
-Start the simulation journey:  
-👉 [**Walk through the Simulation Guide**](guide.md)
+Begin with the simulation guide:  
+[👉 Simulation Walkthrough](guide.md)
 
 ---
 
-### 👨‍💻 Simulation Created By:
-Dharam Bhayani • Avichal Sharma • Aryan Jain  
-**Virginia Tech — Future of Security — Spring 2025**
+## 👥 Team
+
+Created by Dharam Bhayani, Avichal Sharma, Aryan Jain  
+Virginia Tech • Future of Security – Spring 2025
