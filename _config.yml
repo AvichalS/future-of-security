@@ -1,21 +1,16 @@
 title: Critical Response: Securing NOVA’s Grid
-description: A cybersecurity simulation where a grid-wide blackout tests your decision-making, communication, and crisis response.
+description: A cybersecurity simulation where a grid-wide blackout tests decision-making, communication, and crisis response.
 footer_content: 'Future of Security | Virginia Tech 2025'
 
-# Theme configurations
 theme: just-the-docs
 permalink: pretty
-
-# Sidebar nav settings
-just_the_docs:
-  logo: "/assets/logo.png"  # (Optional) Upload your logo to /assets/
-  search_enabled: true
-  show_last_modified_time: true
-  show_nav_level: 2
-
-# Don’t include these in the build
 exclude:
   - LICENSE
   - README.md
   - Gemfile
   - Gemfile.lock
+
+just_the_docs:
+  search_enabled: true
+  show_last_modified_time: true
+  show_nav_level: 2
