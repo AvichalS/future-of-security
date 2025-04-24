@@ -1,5 +1,6 @@
 ---
 title: Phase 2 – Coordinated Response
+layout: event
 parent: Scenario Background
 nav_order: 2
 ---
