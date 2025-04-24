@@ -11,7 +11,7 @@ permalink: /
 
 ---
 
-![Grid Outage Placeholder](assets/images/ChatGPT Image Apr 24, 2025 at 01_31_29 PM.png)
+![Cyber Crisis](assets/images/ChatGPT Image Apr 24, 2025 at 01_31_29 PM.png)
 
 This simulation immerses participants in a high-stakes cyber crisis inspired by real-world events like the Colonial Pipeline ransomware breach and Ukraine’s grid hacks.
 
