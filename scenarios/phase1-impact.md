@@ -1,5 +1,6 @@
 ---
 title: Phase 1 – Initial Impact
+layout: event
 parent: Scenarios
 nav_order: 1
 ---
