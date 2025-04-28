@@ -2,7 +2,7 @@
 title: Scenario Injects
 layout: event
 parent: Scenario Background
-nav_order: 3
+nav_order: 2
 ---
 
 # 🎭 Scenario Injects
