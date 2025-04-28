@@ -1,7 +1,7 @@
 ---
-title: Event Map
+title: Map
 layout: map
-nav_order: 5
+nav_order: 6
 ---
 
 # 📍 Simulation Event Map – Critical Response: Securing NOVA’s Grid
