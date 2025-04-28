@@ -1,11 +1,13 @@
 ---
-title: Map
+title: Event Map
 layout: map
-nav_order: 4
+nav_order: 6
 ---
 
-# Event Map
+# 📍 Simulation Event Map
 
-Below is a map showing all events.
+Below is a map showing key locations impacted during the Critical Response: Securing NOVA’s Grid simulation.
 
-Update `_data/map.yml` to add more events.
+Each marker represents an asset, service hub, or institution relevant to simulation decision-making.
+
+_Update `_data/map.yml` to adjust or add new locations as needed._
