@@ -1,10 +1,35 @@
 center:
-  latitude: 37.229572
-  longitude: -80.413940
+  latitude: 38.804836
+  longitude: -77.046921
   zoom: 9
+
 locations:
-  - name: VT
-    description: Go Hokies!
-    latitude: 37.2249991
-    longitude: -80.4249983
-    url: https://www.vt.edu
+  - name: Dominion Energy Operations Center
+    description: Primary utility control facility targeted in the cyberattack.
+    latitude: 38.8462
+    longitude: -77.3050
+    url: https://www.dominionenergy.com
+
+  - name: Inova Fairfax Hospital
+    description: Major hospital dependent on backup generators post-blackout.
+    latitude: 38.8739
+    longitude: -77.2260
+    url: https://www.inova.org/locations/inova-fairfax-medical-campus
+
+  - name: National Cybersecurity and Communications Integration Center (NCCIC)
+    description: Federal coordination hub responding to the cyber crisis.
+    latitude: 38.9121
+    longitude: -77.0135
+    url: https://www.cisa.gov/
+
+  - name: AWS GovCloud Data Center
+    description: Critical cloud infrastructure site affected by the power outage.
+    latitude: 38.9498
+    longitude: -77.3623
+    url: https://aws.amazon.com/govcloud-us/
+
+  - name: U.S. Department of Energy - Office of Cybersecurity, Energy Security, and Emergency Response
+    description: Leads national energy infrastructure protection and recovery.
+    latitude: 38.8977
+    longitude: -77.0365
+    url: https://www.energy.gov/ceser/office-cybersecurity-energy-security-and-emergency-response
