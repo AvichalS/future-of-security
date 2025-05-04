@@ -39,7 +39,7 @@ Participants take on stakeholder roles to:
 ### 🚀 Ready to Jump In?
 
 Begin your mission here:  
-[**Start Simulation Walkthrough →**](guide.md)
+[**Start Simulation Walkthrough →**](guide)
 
 ---
 
