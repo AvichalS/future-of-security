@@ -14,10 +14,10 @@ This section contains tools, templates, and trackers to support your performance
 
 ## 📁 Available Resources
 
-- [📝 Public Communication Template](statement-template.md)  
+- [📝 Public Communication Template](statement-template)  
   Craft clear, credible public statements during the crisis.
 
-- [📊 PSI & Incident Tracker](tracker.md)  
+- [📊 PSI & Incident Tracker](tracker)  
   Log team decisions, track public sentiment, and support post-simulation analysis.
 
 ---
