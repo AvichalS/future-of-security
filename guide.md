@@ -145,4 +145,4 @@ Participants then enter structured debrief:
 ---
 
 **Next Step:**  
-Move to your assigned [Stakeholder Role](roles) and begin preparations for Phase 1: Initial Impact.
+Move to your assigned [Stakeholder Role](/future-of-security/roles) and begin preparations for Phase 1: Initial Impact.
