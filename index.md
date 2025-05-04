@@ -26,13 +26,13 @@ Participants take on stakeholder roles to:
 
 ## 🗂 Quick Access
 
-- [📖 Scenario Background](/scenarios/)
-- [🧑‍💼 Stakeholder Roles](/roles)
-- [🧪 Simulation Walkthrough](/guide)
-- [🎓 Facilitator Instructions](/facilitator)
-- [📚 Resources](/resources/)
-- [🗺️ Map](/map)
-- [👥 Team Page](/team/)
+- [📖 Scenario Background](scenarios/)
+- [🧑‍💼 Stakeholder Roles](roles)
+- [🧪 Simulation Walkthrough](guide)
+- [🎓 Facilitator Instructions](facilitator)
+- [📚 Resources](resources/)
+- [🗺️ Map](map)
+- [👥 Team Page](team/)
 
 ---
 
