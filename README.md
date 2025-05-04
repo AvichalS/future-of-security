@@ -1,41 +1,84 @@
-# simulation-template
+# Critical Response: Securing NOVA’s Grid
 
-This is a *bare-minimum* template to create a simulation site.
+**A Cybersecurity Crisis Simulation | Future of Security – Virginia Tech, Spring 2025**
 
-To get started with creating a site, simply:
+---
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Overview
 
-After completing the creation of your new site on GitHub, update it as needed:
+This repository hosts all materials for the interactive simulation *Critical Response: Securing NOVA’s Grid*. The exercise challenges participants to respond to a catastrophic cyberattack on the electrical grid in Northern Virginia, simulating the high-pressure decisions made by public, private, and civil stakeholders during a national security crisis.
 
-## Replace the content of the template pages
+Participants take on roles such as government officials, infrastructure operators, media, and civil rights advocates. Over three structured phases, they must respond to injects (emergent developments), manage public sentiment, and propose actionable reforms—all while maintaining alignment with their stakeholder’s mission.
 
-Update the following files to your own content:
+---
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+## Simulation Objectives
 
-You may update or delete other `.md` files as needed.
+- Analyze and respond to cyber-physical infrastructure attacks
+- Navigate ethical, legal, and political dilemmas in real time
+- Coordinate multi-agency crisis communication and decision-making
+- Evaluate public sentiment and maintain civic trust under pressure
+- Reflect on system resilience, emergency powers, and reform strategies
 
-## Publishing your site on GitHub Pages
+---
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+## Contents
 
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    footer_content: 'YOUR FOOTNOTE.'
-    ```
+| Folder/File             | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `/scenarios/`            | Detailed phase walkthroughs and crisis timeline                             |
+| `/roles.md`              | Descriptions of stakeholder responsibilities and goals                      |
+| `/guide.md`              | Simulation walkthrough and execution flow                                   |
+| `/facilitator.md`        | Instructions for facilitators, inject triggers, PSI tracking guidance       |
+| `/injects.md`            | Live inject examples used during simulation phases                          |
+| `/map.md`                | Interactive map with key locations tied to simulation events                |
+| `/resources/`            | Statement templates, tracking sheets, and reference materials               |
+| `/team/`                 | Team roles, communication hub, and coalition structure                      |
+| `/manual.md`             | Comprehensive user manual for participants and facilitators                 |
+| `README.md`              | This overview document                                                      |
+| `_config.yml`            | Configuration for GitHub Pages and Just the Docs site                       |
 
-2.  Push your updated `_config.yml` to your site on GitHub.
+---
 
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
+## How to Use
 
-## Supporting discussions
+1. **Explore the Simulation Website:**  
+   Visit the GitHub Pages site to view the simulation structure and materials in a browsable format.
 
-[giscus](https://giscus.app/) is a comment system powered by GitHub Discussions. You could use this feature for
-facilitating communication among players, submitting reports, and/or collecting feedback. To enable it,
-config your giscus app, and replace the JavaScript code in `_layouts/event.html`.
+   > 🌐 [Simulation Website](https://avichals.github.io/future-of-security/)
+
+2. **Assign Roles:**  
+   Facilitators should use `/roles.md` and `/team/assignment.md` to designate stakeholder positions.
+
+3. **Follow the Guide:**  
+   Use `/guide.md` to run the simulation in three phases. Injects and PSI updates should be managed live.
+
+4. **Debrief and Reflect:**  
+   Use `/facilitator.md` and `/manual.md` to guide post-simulation reflection and scoring.
+
+---
+
+## Technologies Used
+
+- **GitHub Pages** with [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme
+- Markdown for all simulation content and structure
+- Embedded Giscus for simulated public communication threads
+- YAML for map data configuration
+
+---
+
+## Authors
+
+Developed by:  
+- Dharam Bhayani  
+- Avichal Sharma  
+- Aryan Jain  
+
+Virginia Tech – *Future of Security* | Spring 2025
+
+---
+
+## License
+
+This simulation is open for academic, instructional, and non-commercial use. Attribution required. Please contact the authors before adapting or distributing for other contexts.
+
